@@ -5286,3 +5286,5 @@ Embracing an innovation-driven ethos, our team not only supports business implem
 <p align='center'>
 <img src='imgs/wechat.PNG' style='width: 40%; '>
 </p>
+
+- [AgentMarket](https://agentmarket.cloud) - Real energy data API for AI agents. 28M+ records. 
